@@ -1,0 +1,35 @@
+/** 
+*    Created on : Dec 23, 2014, 4:47:30 PM
+*    Author     : Greg London
+*/
+    .count {
+        padding-top:15px
+    } 
+    .showRight {
+        text-align: right;
+        padding-top:15px
+    }
+    .editImg {
+        height:50px;
+        width:50px
+    }
+    .dropDownLabel {
+        font-size: 15px;
+        font-weight:bold
+    }
+    .date {
+        font-size: 15px;
+        font-weight: bold
+    }
+    // for frontEnd, but unfortunately pyro needs a separate style or different path to use css file
+    table .frontTable {
+        width:100%;
+        border: 1px solid black
+    }
+    .frontTable td {
+        padding:5px
+    }
+    .frontTable th {
+        padding:5px
+    }
+    
