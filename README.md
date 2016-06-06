@@ -1,4 +1,4 @@
-TrainingApplication
+TrainingModule
 ========================
 
-PyroCMS/CodeIgniter module for management of employee training records built with PHP. 
+PyroCMS/CodeIgniter custom module built for management of employee training records. 
